@@ -1,0 +1,27 @@
+General Safety & Risk Assessment
+--------------------------------
+1. Which aircraft models have the lowest accident rates?
+2. How does the accident rate vary between commercial and private aircraft?
+3. Which manufacturers have the best safety records based on historical data?
+4. What is the relationship between aircraft age and accident occurrence?
+5. Are there specific flight phases (e.g., takeoff, landing) where certain aircraft are more prone to accidents?
+
+Aircraft Design & Performance
+-----------------------------
+6. How does the number of engines impact accident frequency and severity?
+7. Do larger aircraft (higher passenger capacity) have more or fewer accidents per flight compared to smaller aircraft?
+8. Are there specific aircraft types (jet vs. turboprop) that have lower risk levels in commercial vs. private operations?
+Geographic & Operational Considerations
+9. In which countries or regions do most accidents occur, and what aircraft are commonly involved?
+10. How do different weather conditions affect accident rates for different aircraft?
+11. Do certain aircraft types perform better in specific climates or geographic regions?
+
+Injury & Damage Analysis
+--------------------------------
+12. Which aircraft have the lowest fatality rates in past accidents?
+13. What is the correlation between aircraft type and the severity of injuries (fatal, serious, minor, uninjured)?
+14. How often do specific aircraft sustain irreparable damage in accidents?
+Regulatory & Financial Considerations
+15. How do different aircraft models compare in terms of safety regulations and compliance?
+16. Which aircraft require the least amount of maintenance to maintain high safety levels?
+17. What is the long-term cost of operating different aircraft in terms of repairs and insurance based on accident history?
