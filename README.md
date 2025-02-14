@@ -1,6 +1,6 @@
 ## --------------------------------------------------
 
-## Phase-01-Final-Project
+## Project: Moringa-Phase-01-Final-Code-Project
 ## Author: Brian-Waweru
 
 ## --------------------------------------------------
