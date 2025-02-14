@@ -4,6 +4,7 @@
 
 # Title: Aviation-Accident-Analysis
 
+## --------------------------------------------------
 ## Introduction
 - As the company expands into the aviation industry, it seeks to purchase and operate aircraft for both commercial and private ventures. However, with no prior experience in the sector, the company must carefully assess potential risks associated with different aircraft types. Understanding historical accident data is crucial in determining which aircraft models offer the lowest risk, ensuring safety, regulatory compliance, and cost-effectiveness.
 
