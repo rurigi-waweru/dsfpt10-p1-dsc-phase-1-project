@@ -17,11 +17,11 @@
 - To identify the safest and most reliable aircraft for commercial and private operations by analysing historical accident data, assessing risk factors, and providing actionable insights for informed decision-making.
 
 ### 2. Specific Objectives
-> (i) Examine historical accident data to identify aircraft models with the lowest accident and fatality rates.
+- (i) Examine historical accident data to identify aircraft models with the lowest accident and fatality rates.
 
-> (ii) Assess how factors such as aircraft age, manufacturer, engine type, and passenger capacity influence accident frequency and severity.
+- (ii) Assess how factors such as aircraft age, manufacturer, engine type, and passenger capacity influence accident frequency and severity.
 
-> (iii) Determine how different weather conditions and regions contribute to aircraft accidents and identify aircraft best suited for various environments.
+- (iii) Determine how different weather conditions and regions contribute to aircraft accidents and identify aircraft best suited for various environments.
 
 ## Data Understanding
 ## Data Understanding: Columns and Their Relevance
