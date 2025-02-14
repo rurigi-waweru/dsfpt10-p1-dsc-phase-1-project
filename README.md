@@ -4,13 +4,13 @@
 # Title: Aviation-Accident-Analysis
 
 ## Introduction
-### As the company expands into the aviation industry, it seeks to purchase and operate aircraft for both commercial and private ventures. However, with no prior experience in the sector, the company must carefully assess potential risks associated with different aircraft types. Understanding historical accident data is crucial in determining which aircraft models offer the lowest risk, ensuring safety, regulatory compliance, and cost-effectiveness.
+- As the company expands into the aviation industry, it seeks to purchase and operate aircraft for both commercial and private ventures. However, with no prior experience in the sector, the company must carefully assess potential risks associated with different aircraft types. Understanding historical accident data is crucial in determining which aircraft models offer the lowest risk, ensuring safety, regulatory compliance, and cost-effectiveness.
 
 ## Overview
-### As the company expands into the aviation industry, it seeks to purchase and operate aircraft for both commercial and private ventures. However, with no prior experience in the sector, the company must carefully assess potential risks associated with different aircraft types. Understanding historical accident data is crucial in determining which aircraft models offer the lowest risk, ensuring safety, regulatory compliance, and cost-effectiveness
+- As the company expands into the aviation industry, it seeks to purchase and operate aircraft for both commercial and private ventures. However, with no prior experience in the sector, the company must carefully assess potential risks associated with different aircraft types. Understanding historical accident data is crucial in determining which aircraft models offer the lowest risk, ensuring safety, regulatory compliance, and cost-effectiveness
 
 ## Statement of the Problem
-### Aircraft accidents can result from multiple factors, including mechanical failures, human error, and adverse weather conditions. Analyzing historical data will help identify patterns in past incidents, providing valuable insights for risk assessment. The company must evaluate different aircraft models, manufacturers, and operational conditions to minimize the likelihood of accidents and improve decision-making regarding fleet acquisition.
+- Aircraft accidents can result from multiple factors, including mechanical failures, human error, and adverse weather conditions. Analyzing historical data will help identify patterns in past incidents, providing valuable insights for risk assessment. The company must evaluate different aircraft models, manufacturers, and operational conditions to minimize the likelihood of accidents and improve decision-making regarding fleet acquisition.
 
 ## Objectives 
 ### 1. General Objetive: To identify the safest and most reliable aircraft for commercial and private operations by analysing historical accident data, assessing risk factors, and providing actionable insights for informed decision-making.
