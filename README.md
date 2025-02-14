@@ -22,4 +22,9 @@
 https://github.com/rurigi-waweru/dsfpt10-p1-dsc-phase-1-project
 
 ## The Tableau Visualization are available on:
-https://public.tableau.com/app/profile/brian.waweru/viz/waweru-dsc-phase-1-project-viz/2_1FlightPhaseVsCount?publish=yes
+### Version 1:
+- https://public.tableau.com/app/profile/brian.waweru/viz/waweru-dsc-phase-1-project-viz/2_1FlightPhaseVsCount?publish=yes
+### Version 2:
+- https://public.tableau.com/authoring/waweru-dsc-phase-1-project-viz-v2/Sheet1/Dashboard%201#1
+### Version 3:
+- https://public.tableau.com/app/profile/brian.waweru/viz/waweru-dsc-phase-1-project-viz-v3/Dashboard1?publish=yes
