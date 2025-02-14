@@ -13,7 +13,8 @@
 - Aircraft accidents can result from multiple factors, including mechanical failures, human error, and adverse weather conditions. Analyzing historical data will help identify patterns in past incidents, providing valuable insights for risk assessment. The company must evaluate different aircraft models, manufacturers, and operational conditions to minimize the likelihood of accidents and improve decision-making regarding fleet acquisition.
 
 ## Objectives 
-### 1. General Objetive: To identify the safest and most reliable aircraft for commercial and private operations by analysing historical accident data, assessing risk factors, and providing actionable insights for informed decision-making.
+### 1. General Objetive: 
+- To identify the safest and most reliable aircraft for commercial and private operations by analysing historical accident data, assessing risk factors, and providing actionable insights for informed decision-making.
 
 ### 2. Specific Objectives
 > (i) Examine historical accident data to identify aircraft models with the lowest accident and fatality rates.
